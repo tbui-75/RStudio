@@ -1,0 +1,21 @@
+# Academic Projects & Paper
+
+## 2025
+
+## 2024
+
+### Making Memories Project
+
+The purpose of this Making Memories Project was to give students an opportunity to take the concepts learned in class and apply them to a real-life learning experience. Specifically, we were tasked to choose a new skill, hobby, or activity and spend at least 30–60 minutes per week practicing, though more time is encouraged if possible. The key part of the task was to document our progress in a way that shows how our memory and performance change over time, which can be done through a journal, videos, data tracking, or any method that allows for clear reflection on the learning process. At the end of the semester, we submitted our documentation along with a 2–3 page reflection paper discussing how the experience relates to brain plasticity, the types of memory involved, and the mechanisms that supported our learning.
+
+It was not expected from us to master the skill perfectly, but rather to observe how our memory develops and adapts, and to consider the types of brain plasticity at work. By tracking our progress and reflecting on why we did or didn't improve each week, the project encouraged us to examine different forms of memory, the balance between stability and flexibility in memory representations, and the neural mechanisms that support learning and skill acquisition.
+
+<a href="memory-project-report.pdf" target="_blank">My Report</a>
+
+My Documentation
+
+<video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+
+<source src="memory-project-final.mp4" type="video/mp4">
+
+Your browser does not support the video tag. </video>
