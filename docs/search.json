@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "About\nHi! My name is Daisy Bui, and I am a fourth-year student at Middlebury College majoring in Psychology with a Computer Science minor. The purpose of this website is to keep record of my academic work throughout college. Navigating through the Academic Projects & Papers page, you can explore my work on topics such as applying large language model to analyze depression severity, examining correlation between national GDP and suicide rates, and investigating the impact of grief on color preference."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Academic Projects & Paper",
+    "section": "",
+    "text": "For the Final Project, its purpose was for us to take what we learned in class and apply it to a data analysis paper of our own choosing. By selecting and joining two datasets, we got to practice technical skills in R and formulate research questions and communicate insights through figures and text. Datasets could be chosen freely, with suggested sources including Kaggle, TidyTuesday, Google Dataset Search, WHO, GSS, CDC, or web scraping from reliable sites. In addition to these core requirements, we were required to complete at least two advanced challenges, such as working with time data using lubridate, web scraping with rvest, reshaping data with pivot_wider or pivot_longer, mapping with the sf package, or exploring other visualization techniques not covered in class.\nOpen Link\n\n\n\n\n\n\nDuring the second half of the semester, we were tasked with completing a natural language processing (NLP) research project that synthesized the knowledge and tools we had explored in class, such as word embeddings, part-of-speech tagging with the Viterbi algorithm, and hate speech classification using BERT. The goal of this assignment was not to produce a contribution comparable to a published paper, but rather to immerse us in the research process. By carrying out each stage — from literature review and data collection to method design, evaluation, and ethical reflection — we were able to see how theoretical concepts translate into practical investigation. To further mirror professional standards in the field, the report was written in LaTeX using the ACL conference template, and findings were presented to the class during the final week.\n Open PDF\n\n\n\nIn this Research Methods Project, students had the chance to apply scientific research methods to psychology. The project involved using quantitative methods to test hypotheses and draw conclusions about psychological topics. Over the course, we developed our own research proposals and study designs, culminating in a written report in APA format and a final presentation at the end of the semester.\n Open PDF (Report)\nOpen PDF (Poster)"
+  },
+  {
+    "objectID": "projects.html#section",
+    "href": "projects.html#section",
+    "title": "Academic Projects & Paper",
+    "section": "",
+    "text": "For the Final Project, its purpose was for us to take what we learned in class and apply it to a data analysis paper of our own choosing. By selecting and joining two datasets, we got to practice technical skills in R and formulate research questions and communicate insights through figures and text. Datasets could be chosen freely, with suggested sources including Kaggle, TidyTuesday, Google Dataset Search, WHO, GSS, CDC, or web scraping from reliable sites. In addition to these core requirements, we were required to complete at least two advanced challenges, such as working with time data using lubridate, web scraping with rvest, reshaping data with pivot_wider or pivot_longer, mapping with the sf package, or exploring other visualization techniques not covered in class.\nOpen Link"
+  },
+  {
+    "objectID": "projects.html#section-1",
+    "href": "projects.html#section-1",
+    "title": "Academic Projects & Paper",
+    "section": "",
+    "text": "During the second half of the semester, we were tasked with completing a natural language processing (NLP) research project that synthesized the knowledge and tools we had explored in class, such as word embeddings, part-of-speech tagging with the Viterbi algorithm, and hate speech classification using BERT. The goal of this assignment was not to produce a contribution comparable to a published paper, but rather to immerse us in the research process. By carrying out each stage — from literature review and data collection to method design, evaluation, and ethical reflection — we were able to see how theoretical concepts translate into practical investigation. To further mirror professional standards in the field, the report was written in LaTeX using the ACL conference template, and findings were presented to the class during the final week.\n Open PDF\n\n\n\nIn this Research Methods Project, students had the chance to apply scientific research methods to psychology. The project involved using quantitative methods to test hypotheses and draw conclusions about psychological topics. Over the course, we developed our own research proposals and study designs, culminating in a written report in APA format and a final presentation at the end of the semester.\n Open PDF (Report)\nOpen PDF (Poster)"
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Academic Projects & Paper",
+    "section": "",
+    "text": "The purpose of this Making Memories Project was to give students an opportunity to take the concepts learned in class and apply them to a real-life learning experience. Specifically, we were tasked to choose a new skill, hobby, or activity and spend at least 30–60 minutes per week practicing, though more time is encouraged if possible. The key part of the task was to document our progress in a way that shows how our memory and performance change over time, which can be done through a journal, videos, data tracking, or any method that allows for clear reflection on the learning process. At the end of the semester, we submitted our documentation along with a 2–3 page reflection paper discussing how the experience relates to brain plasticity, the types of memory involved, and the mechanisms that supported our learning.\nIt was not expected from us to master the skill perfectly, but rather to observe how our memory develops and adapts, and to consider the types of brain plasticity at work. By tracking our progress and reflecting on why we did or didn’t improve each week, the project encouraged us to examine different forms of memory, the balance between stability and flexibility in memory representations, and the neural mechanisms that support learning and skill acquisition.\nMy Report\nMy Documentation\n\n\nYour browser does not support the video tag."
+  },
+  {
+    "objectID": "archive.html#section-1",
+    "href": "archive.html#section-1",
+    "title": "Academic Projects & Paper",
+    "section": "",
+    "text": "The purpose of this Making Memories Project was to give students an opportunity to take the concepts learned in class and apply them to a real-life learning experience. Specifically, we were tasked to choose a new skill, hobby, or activity and spend at least 30–60 minutes per week practicing, though more time is encouraged if possible. The key part of the task was to document our progress in a way that shows how our memory and performance change over time, which can be done through a journal, videos, data tracking, or any method that allows for clear reflection on the learning process. At the end of the semester, we submitted our documentation along with a 2–3 page reflection paper discussing how the experience relates to brain plasticity, the types of memory involved, and the mechanisms that supported our learning.\nIt was not expected from us to master the skill perfectly, but rather to observe how our memory develops and adapts, and to consider the types of brain plasticity at work. By tracking our progress and reflecting on why we did or didn’t improve each week, the project encouraged us to examine different forms of memory, the balance between stability and flexibility in memory representations, and the neural mechanisms that support learning and skill acquisition.\nMy Report\nMy Documentation\n\n\nYour browser does not support the video tag."
+  }
+]
