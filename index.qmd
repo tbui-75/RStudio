@@ -1,3 +1,4 @@
-# About
-
+---
+title: "About"
+---
 Hi! My name is Daisy Bui, and I am a fourth-year student at Middlebury College majoring in Psychology with a Computer Science minor. The purpose of this website is to keep record of my academic work throughout college. Navigating through the **Academic Projects & Papers** page, you can explore my work on topics such as applying large language model to analyze depression severity, examining correlation between national GDP and suicide rates, and investigating the impact of grief on color preference.
